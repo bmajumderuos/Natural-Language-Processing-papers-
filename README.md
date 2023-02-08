@@ -1,2 +1,2 @@
-# Natural-Language-Processing-papers-
+# Natural-Language-Processing-Papers
 Implementations from scratch 
